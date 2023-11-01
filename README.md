@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tharushi Nethmini Hemarathna</h1>
 <h3 align="center">Undergraduate at University of Moratuwa, Faculty of Information Technology.</h3>
 <img align="right" alt="Happy" width="200" height="200" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face.png">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tharushinethminihemarathna&label=Profile%20views&color=0e75b6&style=flat" alt="tharushinethminihemarathna" /> </p>
 
 - 🌱 I’m currently learning **Angular, Spring boot, MySQL, Figma, Adobe XD**
 
